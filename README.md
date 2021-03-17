@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=cissoko97&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=cissoko97&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cissoko97&layout=compact)](https://github.com/cissoko97/github-readme-stats)
